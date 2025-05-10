@@ -1,0 +1,19 @@
+  .r2{
+    padding: 15px !important;
+    padding-left: 50px!important;
+    padding-right: 50px!important;
+    
+  }
+  .certify{
+    font-size: 25px;
+    font-weight: 400;
+  }
+  .lego{
+    font-size: 10px;
+  }
+  @media (max-width:900px) {
+    .r2{
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+    }
+  }
